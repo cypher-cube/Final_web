@@ -1,0 +1,116 @@
+.carousel-caption {
+  color: black;
+}
+.carousel-control-prev {
+  color: black;
+  font-size: xx-large;
+}
+.carousel-control-next {
+  color: black;
+  font-size: xx-large;
+}
+
+.carousel-control-next-icon {
+  color: black;
+}
+
+.carousel-caption {
+  padding-bottom: 26%;
+}
+
+.carousel-item {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.d-block {
+  margin-left: auto;
+  margin-right: auto;
+  height: 75%;
+  width: 85%;
+}
+b {
+  font-size: larger;
+}
+.tracks {
+  display: flex;
+  flex-wrap: wrap;
+}
+.track {
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+  margin: 6% 4%;
+  border: 1px lightslategray solid;
+  border-radius: 8px;
+  height: 100%;
+}
+.title {
+  margin: auto;
+  padding-bottom: 8px;
+}
+.track_img {
+  height: 250px;
+  width: 300px;
+  border-radius: 8px;
+}
+.track_body {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.track_description {
+  padding-left: 20px;
+}
+.right {
+  display: flex;
+  flex-direction: column;
+}
+.locations {
+  display: flex;
+  flex-wrap: wrap;
+}
+.location {
+  display: flex;
+  width: 35%;
+  margin: 6% 4%;
+  border: 1px lightslategray solid;
+  border-radius: 8px;
+  height: 100%;
+}
+.flag {
+  height: 250px;
+  width: 300px;
+  border-radius: 8px;
+}
+.location_description {
+  display: flex;
+  flex-direction: column;
+}
+.country {
+  margin: auto;
+}
+.country_description {
+  margin: auto;
+  padding-left: 20px;
+}
+.field {
+  border: 1px lightslategray solid;
+  border-radius: 8px;
+}
+.register {
+  margin: auto;
+  border: 3px white solid;
+  border-radius: 8px;
+}
+.big {
+  display: flex;
+  flex-direction: column;
+  margin-top: 13%;
+}
+.element {
+  margin-bottom: 15px;
+}
+.description {
+  color: white;
+}
